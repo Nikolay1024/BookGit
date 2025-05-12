@@ -2,3 +2,4 @@ Some text.
 New master text.
 New text.
 New testing text.
+Git Rebase simple example.
