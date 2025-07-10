@@ -1,2 +1,3 @@
 Another text.
 Another conflict text.
+Some text for indexing in parts.
